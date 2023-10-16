@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Helm Polos Retro Bogo SNI",
+    "category": "Otomotif",
+    "rating": 4.7,
+    "selling": 226,
+    "price": 250000,
+    "imageUrl": "assets/icon/helm.png"
+  },
+  {
+    "id": 2,
+    "title": "Brianna Black Thanksinsomnia",
+    "category": "T-Shirt",
+    "rating": 4.7,
+    "selling": 650,
+    "price": 230000,
+    "imageUrl": "assets/icon/kaos.png"
+  },
+  {
+    "id": 3,
+    "title": "Maxim Panda Wajan Teflon",
+    "category": "Perlengkapan dapur",
+    "rating": 4.7,
+    "selling": 1500,
+    "price": 250000,
+    "imageUrl": "assets/icon/panci.png"
+  },
+  {
+    "id": 4,
+    "title": "Apple MacBook Air (13.3 inci, M1 2020)",
+    "category": "Elektronik",
+    "rating": 4.7,
+    "selling": 120,
+    "price": 12549999,
+    "imageUrl": "assets/icon/laptop.png"
+  },
+  {
+    "id": 5,
+    "title": "Casio General LQ-139BMV-7ELDF",
+    "category": "Jam Tangan",
+    "rating": 4.9,
+    "selling": 2000,
+    "price": 150000,
+    "imageUrl": "assets/icon/jam.png"
+  },
+  {
+    "id": 6,
+    "title": "Johnson - Pavo White",
+    "category": "Fashion",
+    "rating": 4.7,
+    "selling": 1500,
+    "price": 379000,
+    "imageUrl": "assets/icon/sepatu.png"
+  }
+]
