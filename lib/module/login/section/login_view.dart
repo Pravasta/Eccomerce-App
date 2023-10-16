@@ -93,7 +93,6 @@ class _LoginViewState extends State<LoginView> {
           _titleTextField('Email Address'),
           const SizedBox(height: 10),
           DefaultTextField(
-            initialText: 'yyyy',
             hintText: 'Enter your Email',
             validator: (value) {
               if (value == null || value.isEmpty) {
@@ -106,7 +105,6 @@ class _LoginViewState extends State<LoginView> {
           _titleTextField('Password'),
           const SizedBox(height: 10),
           DefaultTextField(
-            initialText: 'aaaa',
             hintText: 'Enter your Email',
             validator: (value) {
               if (value == null || value.isEmpty) {
