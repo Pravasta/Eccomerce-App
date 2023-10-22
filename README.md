@@ -11,4 +11,4 @@ Project ini menerapkan MVC pattern dan menggunakan data Dummy
 
 Berikut sedikit Screenshot Design nya
 
-<img src="https://i.ibb.co/rsSsyGg/Untitled-1.png" alt="Eccomerce" border="0" />
+<img src="[https://i.ibb.co/rsSsyGg/Untitled-1.png](https://www.canva.com/design/DAFrOMlPpRE/ObPYl3huk1LAegI_TUVUSQ/view?utm_content=DAFrOMlPpRE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)https://www.canva.com/design/DAFrOMlPpRE/ObPYl3huk1LAegI_TUVUSQ/view?utm_content=DAFrOMlPpRE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" alt="Eccomerce" border="0" />
